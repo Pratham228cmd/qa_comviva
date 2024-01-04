@@ -1,0 +1,28 @@
+Testcase id: 12a_2_COD
+
+Test summary: Check if COD option is available for eligible items and orders.
+
+Prerequisites: 1.User must be logged in.
+	       2.cart must not be empty. 
+
+Browser: Firefox version 95.02
+
+Test data: 1. Amazon account details(username and password)
+	   2. product details 
+	   3. deleviry address
+
+Test steps: 
+1. Navigate to amazon.in
+2. then login, you will land to the home page
+3. then do some shoping.
+4. add all your products to cart.
+5. then go to your cart.
+6. click to proceed to checkout.
+7. fill all your details.
+8. select your payment method. it has many options.
+9. select cash on deleviry method. 
+ 
+
+
+
+
